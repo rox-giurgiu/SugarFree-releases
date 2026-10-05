@@ -1,0 +1,3 @@
+# The game itself is published as a release asset, not committed
+*.exe
+*.zip
